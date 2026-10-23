@@ -40,6 +40,10 @@ python polaroid_green600.py
 
 Funziona su Windows e Linux (testato principalmente su Windows).
 
+## Vedi anche
+
+[lomochrome-simulator](https://github.com/Dmitrij-Anatolievic/lomochrome-simulator): simulatore delle pellicole LomoChrome Purple, Turquoise, Metropolis e Lomography Color, con modelli misurati.
+
 ## Autore
 
 **Dmitrij Musella** — fotografo sperimentale e ricercatore indipendente, Napoli.
@@ -64,5 +68,7 @@ Desktop simulator of instant Polaroid photos, written in Python/PyQt6. Colour cu
 **Install:** `pip install -r requirements.txt` then `python polaroid_green600.py` (Python 3.9+, Windows/Linux).
 
 Polaroid is a trademark of Polaroid B.V. This is an independent project, not affiliated with or endorsed by Polaroid.
+
+**See also:** [lomochrome-simulator](https://github.com/Dmitrij-Anatolievic/lomochrome-simulator) — LomoChrome Purple, Turquoise, Metropolis and Lomography Color emulation.
 
 License: MIT · Author: Dmitrij Musella
