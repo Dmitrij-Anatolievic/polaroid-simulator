@@ -72,3 +72,6 @@ Polaroid is a trademark of Polaroid B.V. This is an independent project, not aff
 **See also:** [lomochrome-simulator](https://github.com/Dmitrij-Anatolievic/lomochrome-simulator) — LomoChrome Purple, Turquoise, Metropolis and Lomography Color emulation.
 
 License: MIT · Author: Dmitrij Musella
+
+
+> Developed with AI-assisted coding tools (Claude/Anthropic)
